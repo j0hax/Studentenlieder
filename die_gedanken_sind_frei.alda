@@ -1,0 +1,11 @@
+# Die Gedanken sind frei
+# https://www.markomannenwiki.de/index.php?title=Die_Gedanken_sind_frei
+
+(tempo! 125)
+
+piano:
+    (key-signature "b- e-")
+    f8~f b4 b > d8 < b f4~f f e c f d < b >
+    f b b > d8 < b f4~f f e c f d < b >
+    b a > c < a b > d < b a > c < a b > d <
+    b g g b8 g f2 f8 > d8 d c < b4 a b2
